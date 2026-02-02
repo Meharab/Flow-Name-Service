@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@onflow/fcl": "^1.4.1",
-    "eslint": "8.45.0",
-    "eslint-config-next": "13.4.10",
+    "eslint": "9.39.2",
+    "eslint-config-next": "16.1.6",
     "next": "16.1.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
